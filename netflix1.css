@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    
+    background-image:radial-gradient(rgba(12, 1, 1, 0.692), rgba(0, 0, 0, 0.596)), url(/netflix2.jpg);
+    background-repeat:no-repeat;
+    background-size:contain;
+    max-height: 760px;
+    opacity: .9;
+    display: block;
+  
+}
+.one img 
+{
+   width:160px;
+   margin-top: 11px;
+}
+.two
+{
+    float:right;
+    align-items: center;
+    justify-content: center;
+    padding: 7px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+}
+button{
+    background-color: red;
+    padding: 3px;
+    color:white;
+    cursor: pointer;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 17px;
+    padding-right: 17px;
+    margin-right: 50px;
+    border: 3px solid red;
+}
+.three
+{
+    align-items: center;
+    float:right;
+    margin-top: 4.5%;
+    margin-right: 28%;
+}
+#email
+{
+    
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 30px;
+   padding-right: 190px;
+}
+#but
+{
+   
+    padding:12px;
+    margin-left: -0.5%;
+    font-size: 20px;
+    padding-bottom: 17px;
+    text-align: center;
+}
+.heading
+{
+    text-align: center;
+    color:white;
+    padding-top: 15%;
+}
+#h1
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 45px;
+}
+#one
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+#two
+{
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.language
+{
+    background-color: rgba(44, 43, 43, 0.753);
+    color: white; 
+    margin-left: -28px;
+    padding-left: 25px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-right: 35px;
+    margin-top: 23px;
+    
+}
+
+
+
+.para
+{   background-color: black;
+    opacity: 12;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    border-top: 16px groove rgb(54, 54, 54);
+}
+.para #one
+{
+    color:white;
+    font-size: 50px;  
+    margin-left: 120px;
+    margin-top: 150px;
+}
+.para p{
+    color:rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    margin-left: 119px;
+    opacity: 0.9;
+}
+.para img{
+    
+    margin-top: -21.4%;
+    width:500px;
+    margin-left: 55.1%;
+    opacity: 0.9;
+}
+.para video{
+    margin-left: 60%;
+   margin-top: -208%;
+    width:27%;
+}
+.five{
+    border-top: 16px groove rgb(54, 54, 54);
+}
+.five h1{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    margin-left: 50%;
+    margin-top: 11%;
+}
+.five p{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-left: 50%;
+}
+.five img{
+    margin-left: 60px;
+    opacity: 0.9;
+}
+
+
+
